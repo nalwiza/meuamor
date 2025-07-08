@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: red;
+}
+p {
+    color: red;
+}
+body {
+    font-family: FreeMono, monospace;
+    background-color: black;
+    margin: 20px;
+}
